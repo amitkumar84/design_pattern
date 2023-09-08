@@ -1,4 +1,4 @@
-package com.amitsah.designpatterns.decorator
+package com.amitsah.designpatterns.structural.decorator
 
 interface Coffee {
     fun cost(): Double
